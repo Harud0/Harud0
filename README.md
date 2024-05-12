@@ -1,16 +1,22 @@
-### Hi there 👋
+## I'm Harud0
+- programming at C
+- development in Html5 and Css
+- starting with Java and python 
 
-<!--
-**Harud0/Harud0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Harud0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harud0&theme=github_dark&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harud0&layout=compact&langs_count=7&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My technologies
+
+<div style="display:_block"><br/>
+<img align="center" alt="Harud0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Harud0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Harud0-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<img align="center" alt="" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
+<img align="center" alt="" height="30" width="30" src=https://static-00.iconduck.com/assets.00/python-icon-2048x2037-wpgoz04a.png>
+</div>
+
+
+</div>
