@@ -4,9 +4,9 @@
 - starting with Java and python 
 
 
-![Harud0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harud0&theme=github_dark&show_icons=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harud0&layout=compact&langs_count=7&theme=dark"/>
 
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Harud0&theme=github_dark&show_icons=true"/>
+<img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harud0&layout=compact&langs_count=7&theme=dark"/>
 
 ## My technologies
 
