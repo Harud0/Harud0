@@ -1,7 +1,7 @@
 ## I'm Harud0
-- programming at C
+- programming at C and Java 
 - development in Html5 and Css
-- starting with Java and python 
+- starting with python 
 
 
 
