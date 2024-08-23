@@ -1,22 +1,19 @@
 ## I'm Harud0
-- programming at C and Java 
-- development in Html5 and Css
-- starting with python 
+- Young fullstack developer
+- Future Grayhat 
 
 
 
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Harud0&theme=github_dark&show_icons=true"/>
-<img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harud0&layout=compact&langs_count=7&theme=dark"/>
+![Harud0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Harud0&theme=github_dark&show_icons=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harud0&layout=compact&langs_count=7&theme=dark"/>
+
 
 ## My technologies
 
 <div style="display:_block"><br/>
-<img align="center" alt="Harud0-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Harud0-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Harud0-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-<img align="center" alt="" height="30" width="30" src=https://static-00.iconduck.com/assets.00/python-icon-2048x2037-wpgoz04a.png>
-</div>
-
+<img align="center" alt="Harud0-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="Harud0-CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="Harud0-C"    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img align="center" alt="Harud0-JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
 </div>
