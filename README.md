@@ -1,6 +1,6 @@
 ## I'm Harud0
 - Young fullstack developer
-- Future Grayhat 
+- Future purple team member
 
 
 
