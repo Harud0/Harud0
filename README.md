@@ -1,16 +1,3 @@
-<!--
-  README de perfil — Harud0
-  Arquivo: README.md
-  Repositório: https://github.com/Harud0/Harud0
-
-  PERSONALIZAÇÃO:
-  1. Confirme que este arquivo está no repositório público Harud0/Harud0.
-  2. Substitua os placeholders dos projetos pelos seus repositórios reais.
-  3. Atualize os links profissionais quando desejar.
-  4. Configure o workflow da Snake Contribution conforme as instruções
-     no final deste README.
--->
-
 <div align="center">
 
   <!-- BANNER MINIMALISTA -->
@@ -26,11 +13,6 @@
 
 ## `> Sobre mim`
 
-Sou **Eduardo Coelho dos Santos e Silva**, atuo como analista de operações e direciono meu desenvolvimento técnico para o **back-end com Java**.
-
-Tenho interesse em desenvolvimento de sistemas, construção de aplicações, processamento de dados e tecnologias que conectam software, infraestrutura e operação.
-
-Meu objetivo é aprofundar conhecimentos em desenvolvimento back-end, criando soluções com código organizado, integração com bancos de dados e atenção à confiabilidade dos sistemas.
 
 ---
 
